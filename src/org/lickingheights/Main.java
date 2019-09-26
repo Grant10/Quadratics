@@ -7,13 +7,18 @@ public class Main {
         //todo declare variables a,b,c,discrimaniant, axis of symmetry,parabolafacing, x,y
         double a,b,c,discrimaniant,axisOfSymmetry,x,y;
         String parabolaFacing;
+        a=5;
+        b=3;
+        c=1;
         // todo initialize manually
         //
         // todo do calculations
         //
+        //todo print results
+
         // todo not in code check results
         //
-        // initilize scanner
+        // todo initilize scanner and redo the initialize area
         //
         // todo double check results
         //
