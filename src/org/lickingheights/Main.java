@@ -14,11 +14,12 @@ public class Main {
          c=1;
         // todo do calculations
         axisOfSymmetry = -b/(2*a);
-        discrimainant =  (b*b)-4(a*c);
+        discrimainant =  (b*b)-4*(a*c);
         //todo print results
-
+        System.out.println("Axis of Symmetry: +axisOfSymmetry");
+        System.out.println("discriminant: +discriminant");
         // todo not in code check results
-
+        
         // todo initilize scanner and redo the initialize area
 
         // todo double check results
